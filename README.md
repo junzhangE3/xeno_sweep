@@ -5,6 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Pygame Version](https://img.shields.io/badge/pygame-2.x-green.svg)](https://www.pygame.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![Python application](https://github.com/junzhangE3/xeno_sweep/actions/workflows/python-app.yml/badge.svg)
 
 <!-- ======== GitHub Specific Badges (Some already in your README) ======== -->
 [![GitHub stars](https://img.shields.io/github/stars/junzhangE3/xeno_sweep.svg?style=social&label=Star)](https://github.com/junzhangE3/xeno_sweep)
