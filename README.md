@@ -10,9 +10,8 @@ A fun, pixel-art themed Minesweeper game built with Python and Pygame, featuring
 
 ## 🚀 Screenshot
 
-*Replace this with an actual screenshot of your game!*
+<img width="1353" alt="image" src="https://github.com/user-attachments/assets/f64aae78-65fd-4429-b517-511b94cb4736" />
 
-![Gameplay Screenshot of Alien Minesweeper](path_to_your_screenshot.png)
 
 ---
 
